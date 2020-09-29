@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<body>
+<head>
     <title>Ramballabh agrawal  2b93fa3f</title>
+</head>
+<body>
     <h1>Welcome to Guessing Game</h1>
     <?php
         $correctnumber=74;
